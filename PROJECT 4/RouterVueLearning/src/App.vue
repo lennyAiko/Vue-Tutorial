@@ -1,10 +1,9 @@
 <script setup>
-  import HomeView from './views/HomeView.vue'
-  import AboutView from './views/AboutView.vue'
+  import {RouterView} from "vue-router"
 </script>
 
 <template>
   <div>
-    <h1>Home View</h1>
+    <RouterView />
   </div>
 </template>
