@@ -4,7 +4,7 @@
 
 <template>
     <div>
-        <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink active-class="font-bold text-yellow-600" to="/">Home</RouterLink>
+        <RouterLink active-class="font-bold text-yellow-600" to="/about">About</RouterLink>
     </div>
 </template>

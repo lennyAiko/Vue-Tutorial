@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "Infinty",
+        "price": 20000,
+        "year": 2020
+    },
+    {
+        "id": 2,
+        "name": "Dyna",
+        "price": 10000,
+        "year": 2018
+    },
+    {
+        "id": 3,
+        "name": "Toyota",
+        "price": 29000,
+        "year": 2019
+    },     
+    {
+        "id": 4,
+        "name": "Corolla",
+        "price": 27000,
+        "year": 2023
+    },     
+    {
+        "id": 5,
+        "name": "Camry",
+        "price": 25000,
+        "year": 2021
+    }
+]
