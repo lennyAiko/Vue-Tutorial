@@ -8,7 +8,7 @@
 </script>
 
 <template>
-    <div class="">
+    <div class="" v-if="car">
         <h1 class="text-2xl">Contact Info</h1>
         <p>{{ car.contact.dealer }}</p>
         <p>{{ car.contact.number }}</p>
