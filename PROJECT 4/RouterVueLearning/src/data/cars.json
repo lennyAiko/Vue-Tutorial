@@ -1,0 +1,52 @@
+[
+    {
+        "id": 1,
+        "name": "Infinty",
+        "price": 20000,
+        "year": 2020,
+        "contact": {
+            "dealer": "Lenny",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 2,
+        "name": "Dyna",
+        "price": 10000,
+        "year": 2018,
+        "contact": {
+            "dealer": "Laithe",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id": 3,
+        "name": "Toyota",
+        "price": 29000,
+        "year": 2019,
+        "contact": {
+            "dealer": "Corner",
+            "number": "111-111-1111"
+        }
+    },     
+    {
+        "id": 4,
+        "name": "Corolla",
+        "price": 27000,
+        "year": 2023,
+        "contact": {
+            "dealer": "Gregor",
+            "number": "111-111-1111"
+        }
+    },     
+    {
+        "id": 5,
+        "name": "Camry",
+        "price": 25000,
+        "year": 2021,
+        "contact": {
+            "dealer": "Adam",
+            "number": "111-111-1111"
+        }
+    }
+]
