@@ -22,13 +22,8 @@
       class="border-none bg-slate-700 opacity-10 text-white p-2.5 rounded-md">
     </header>
 
-    <RouterView />
-
     <div class="flex flex-wrap mt-10">
-      <RouterLink :to="`/questions/${quiz.id}`" v-for="quiz in quizes"
-      :key="quiz.id">
-        <Card :quiz="quiz" />
-      </RouterLink> 
+        <Card v-for="quiz in quizes" :key="quiz.id" :quiz="quiz" />
     </div>
   </div>
 </template>
