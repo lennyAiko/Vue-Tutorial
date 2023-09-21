@@ -7,7 +7,7 @@
     const {quiz} = defineProps(['quiz'])
 
     const navigateToQuiz = () => {
-        router.push(`/questions/${quiz.id}`)
+        router.push(`/quiz/${quiz.id}`)
     }
 
 </script>
