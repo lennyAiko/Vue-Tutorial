@@ -12,7 +12,7 @@
 
     const showContact = () => {
         if(carId === 4) return
-        return vrouter.push(`/cars/${carId}/contact`)
+        return router.push(`/cars/${carId}/contact`)
     }
 
 </script>
