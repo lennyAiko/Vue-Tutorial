@@ -2,8 +2,6 @@
     import { defineProps } from 'vue';
 
     const {questionStatus, barPercentage} = defineProps(['questionStatus', 'barPercentage'])
-
-    console.log(questionStatus)
 </script>
 
 <template>
